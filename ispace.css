@@ -1,0 +1,118 @@
+.firstRow {
+    background-color: red;
+}
+
+#whitebg {
+    background-color: white;
+}
+
+#home {
+    background-color: rgb(50, 229, 50);
+    color: aliceblue;
+}
+
+.ispace::first-letter {
+    color: rgb(50, 229, 50);
+    font-family: 'Oswald', sans-serif;
+}
+
+#margintable {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+
+.lorem {
+    background-color: rgb(50, 229, 50);
+    color: aliceblue;
+    margin-bottom: 0;
+}
+
+.loremblue {
+    color: white;
+    background-color: rgb(50, 229, 50);
+}
+
+.unlist {
+    list-style: inside;
+}
+
+.bgcolor {
+    background-color: red;
+}
+
+.loremparagraph {
+
+    color: white;
+
+}
+
+button {
+    background-color: black;
+    color: white;
+    padding: 5px;
+}
+
+.loremh5 {
+    color: white;
+    background-color: lightblue;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-top: 10px;
+    margin-bottom: 1px;
+}
+
+.greencolor {
+    color: rgb(50, 229, 50);
+}
+
+.readmore {
+    padding: 10px;
+    border: 1px solid;
+    background-color: black;
+    color: white;
+    width: fit-content;
+}
+
+.textgray {
+    color: gray;
+}
+
+
+
+.whiteandgreen {
+    color: white;
+    background-color: rgb(50, 229, 50);
+    font-size: 40px;
+}
+
+.bggray {
+    background-color: #544;
+    color: white;
+}
+
+h4 {
+    color: rgb(50, 229, 50);
+}
+
+.alicecolor {
+    color: aliceblue;
+}
+
+h6 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.strong {
+    background-color: rgb(50, 229, 50);
+    color: white;
+}
+
+.dollar {
+    font-size: xx-large;
+    font-weight: 900;
+}
+.lorem2{color: #9f9d9c;}
+
+.lorem3{color: grey;}
