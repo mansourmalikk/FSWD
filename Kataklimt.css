@@ -1,0 +1,64 @@
+.whitebackground {
+    background-color: rgb(255, 255, 255);
+}
+
+#about {
+    background-color: red;
+    color: white;
+    border-radius: 20px;
+    width: fit-content
+    ;
+}
+
+h2::first-letter {
+    color: red;
+}
+
+a {
+    text-decoration: none;
+    color: red;
+}
+
+#imagebackground {
+    background-color: rgb(13, 81, 141);
+}
+
+.welcome {
+    color: white;
+}
+
+.background {
+    background-color: black;
+    color: white;
+}
+
+
+div {
+    padding: 4px;
+    width: fit-content;
+    background-color: red;
+}
+
+.graybackground {
+    background-color: gray;
+}
+
+h3 {
+    color: white;
+}
+
+.graybg {
+    background-color: gray;
+}
+
+#loremparagraph {
+
+    color: white;
+}
+
+
+.whiteandred{color: white; background-color: red ;
+    
+border-radius: 30px; width: max-content;} 
+
+.list{color: red;}
