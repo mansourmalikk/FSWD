@@ -1,0 +1,215 @@
+* {
+    box-sizing: border-box;
+}
+
+.row1 {
+    display: flex;
+    background-image: iceclean;
+    height: 30px;
+    background-color: #4192cb;
+    color: white;
+
+}
+
+.row1 div {
+    width: 50%;
+}
+
+.f {
+    color: black;
+    text-decoration: none;
+    background-color: white;
+    display: block;
+    width: 20px;
+    height: 10px;
+}
+
+.email {
+    display: flex;
+
+}
+
+.icons {
+    display: flex;
+    justify-content: end;
+    margin: 5px;
+
+}
+
+.nav {
+    color: white;
+    background-color: #4192cb;
+    padding: 10px 0;
+    font-family: system-ui, -apple-system, BdivnkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.icons a {
+    margin: 5px;
+}
+
+.row2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+.row2 div {
+    width: 40%;
+    align-items: center;
+}
+
+.nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+.imgs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.imgs div {
+    width: 100%;
+}
+
+.notes {
+    display: flex;
+}
+
+.notes div {
+    width: 25%;
+    align-items: center;
+    padding: 10px;
+    padding-bottom: 15px;
+}
+
+.notes h2 {
+    text-align: center;
+    color: #4192cb;
+}
+
+.active {
+    background-color: #f6f6f6;
+}
+
+.noactive {
+    background-color: #fcfcfc;
+}
+
+.notes p {
+    text-align: center;
+    color: gray;
+}
+
+.best {
+    display: flex;
+}
+
+.best div {
+    width: 80%;
+    text-align: center;
+}
+
+.best h3 {
+    background-color: #4192cb;
+    padding: 10px;
+    color: white;
+}
+
+.best-img1 {
+    display: flex;
+    justify-content: space-between;
+}
+
+.best-img1 div {
+    margin: 3px;
+}
+
+.best-img1 p {
+    text-align: center;
+    color: #4192cb;
+}
+
+.best-img1 img {
+    border: solid 2px gray;
+}
+
+.industry {
+    display: flex;
+    justify-content: center;
+    justify-content: space-around;
+    ;
+}
+
+.industry div {
+    width: 33.3333%;
+}
+
+#health div {
+    width: 300px;
+}
+
+.about {
+    justify-content: space-around;
+}
+
+.about div {
+    padding: 10px 20px;
+    background-color: white;
+    color: #4192cb;
+
+}
+
+#about {
+    opacity: 100%;
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-content: center;
+}
+
+.contact div {
+    width: 18%;
+    ;
+}
+
+#column {
+    display: flex;
+    flex-direction: column
+}
+
+.contact {
+    font-variant: ;
+}
+
+#column div {
+    width: 100%;
+    margin-bottom: 30px;
+}
+
+#column2 {
+    display: flex;
+    flex-direction: column
+}
+
+#column2 div {
+    width: 100%;
+    margin-bottom: 0;
+}
+
+#special {
+    width: 100%;
+}
+
+.contact {
+    background-color: white;
+    color: #4192cb;
+}
+
+input {
+    padding: 8px;
+    padding-right: 12px;
+}
