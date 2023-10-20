@@ -141,6 +141,10 @@ form {
     margin-top: 0;
     padding-top: 20px;
 }
+.team-mates{
+    display: flex;
+    justify-content: space-between;
+}
 .team-mates>div{
 width: 22%;
 }
@@ -149,6 +153,7 @@ width: 22%;
     border-radius: 50%;
     border: solid 6px #f5c345;
 }
+
 .david>button{
     background-color: #f5c345;
     padding: 5px 20px;
