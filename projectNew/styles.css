@@ -1,0 +1,156 @@
+body {
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.header {
+    background: url(photo_2022-08-13_10-54-43.jpg);
+    height: 500px;
+    font-family: sans-serif;
+}
+
+.class ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.nav-fluid {
+    background-color: rgba(1, 0, 1, 0.6);
+    font-family: sans-serif;
+}
+
+.nav-box {
+    display: flex;
+    width: 80%;
+    margin: auto;
+    color: white;
+
+}
+
+.nav-box>div {
+    width: 50%;
+}
+
+li {
+    display: inline-block;
+    padding: 0 10px;
+}
+
+#home {
+    background-color: #4b4b4b;
+    padding: 4px 15px;
+}
+
+.header>.nice {
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.header>.nice>a {
+    padding: 5px 20px;
+    background-color: #f5c345;
+    text-decoration: none;
+    color: black;
+}
+
+.about {
+    padding-bottom: 20px;
+}
+
+.about-box,
+.newsletter-box,
+.team-box {
+    width: 80%;
+    margin: auto;
+}
+
+.about-2 {
+    text-align: center;
+    padding-top: 10px;
+}
+
+.what {
+    display: flex;
+}
+
+.what>div {
+    width: 50%;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 10px;
+    background-color: gray;
+}
+
+.progress {
+    width: 95%;
+    background-color: #f5c345;
+    height: 10px;
+}
+
+.newsletter-box {
+    padding-top: 10px;
+    margin-top: 20px;
+
+}
+
+.newletter {
+    background-color: #f5c345;
+    padding: 10px 0 30px 0;
+}
+
+.newsletter-box>h3 {
+    text-align: center;
+}
+
+.newsletter-box input {
+    border: none;
+    padding: 5px;
+    background: #f9e293;
+}
+
+form {
+    display: flex;
+    justify-content: space-between;
+}
+
+.twenty {
+    width: 18%;
+}
+
+.email {
+    width: 35%;
+}
+
+.newsletter-box>form>button {
+    border: none;
+    background: black;
+    color: white;
+}
+.team{
+    background-color: #323232;
+    color: white;
+}
+.team-box{
+    text-align: center;
+
+}
+.team-box>h3{
+    margin-top: 0;
+    padding-top: 20px;
+}
+.team-mates>div{
+width: 22%;
+}
+.team-mates img{
+    
+    border-radius: 50%;
+    border: solid 6px #f5c345;
+}
+.david>button{
+    background-color: #f5c345;
+    padding: 5px 20px;
+    font-size:x-large;
+}
