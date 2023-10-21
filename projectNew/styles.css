@@ -132,6 +132,7 @@ form {
 .team{
     background-color: #323232;
     color: white;
+    padding-bottom: 40px;
 }
 .team-box{
     text-align: center;
@@ -158,4 +159,40 @@ width: 22%;
     background-color: #f5c345;
     padding: 5px 20px;
     font-size:x-large;
+}
+.portfolio{
+     color: #555555;
+}
+.portfolio-box>h3{
+    margin-top: 0;
+    padding-top: 20px;
+}
+.portfolio-box{
+    width: 80%;
+    margin: auto;
+    text-align: center;
+   
+}
+.portfolio-box>p{
+    width: 60%;
+    margin: auto;
+    
+}
+.btns{
+    padding-top:20px;
+}
+button{
+    border: solid 2px rgb(245, 195, 69,0.9);
+color: rgba(0, 0, 0, 0.559);
+padding: 3px 16px;
+margin-right: 4px;
+background: white;
+}
+button:active{
+color: black;
+}
+.first{
+    background-image: url(david.jpg);
+    width: 33.33%;
+    height:200px;
 }
